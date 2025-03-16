@@ -1,0 +1,15 @@
+#archivos de Pythón
+__pycache__/
+*.pyc
+*.pyo
+
+#configuración de entornos virtuales
+.env
+.venv
+
+#configuración de Streamlit
+.streamlit/secrets.toml
+
+#archivos de logs y caché
+logs/
+*.log
